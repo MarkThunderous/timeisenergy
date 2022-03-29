@@ -329,6 +329,10 @@
     margin-left: 419px;
   }
 
+  .u-section-2 .u-gallery-1 {
+    margin-top: 20px;
+  }
+
   .u-section-2 .u-btn-1 {
     border-style: none;
     margin-right: 55px;
@@ -363,6 +367,7 @@
   }
 
   .u-section-2 .u-btn-1 {
+    margin-top: 20px;
     margin-right: 0;
   }
 
