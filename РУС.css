@@ -435,12 +435,11 @@
 
   .u-section-2 .u-btn-2 {
     margin-top: 20px;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-btn-3 {
     margin-top: 20px;
-    margin-bottom: initial;
+    margin-bottom: 60px;
   }
 }
 
@@ -463,10 +462,6 @@
 
   .u-section-2 .u-layout-cell-8 {
     min-height: 312px;
-  }
-
-  .u-section-2 .u-btn-2 {
-    margin-bottom: 0;
   }
 
   .u-section-2 .u-btn-3 {
