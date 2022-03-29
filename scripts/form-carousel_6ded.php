@@ -8,7 +8,7 @@ $form = array(
     'success_redirect' => '',
     'sendIpAddress' => true,
     'email' => array(
-    'from' => 'timeenergy@site.com',
+    'from' => 'https:&#x2F;&#x2F;markthunderous.github.io&#x2F;timeisenergy&#x2F;РУС_Заявка.html',
     'to' => 'mkhoroshylov2@gmail.com'
     ),
     'fields' => array(

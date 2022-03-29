@@ -36,6 +36,7 @@
 
 .u-section-1 .u-form-group-4 {
   margin-left: 0;
+  font-weight: normal;
 }
 
 .u-section-1 .u-label-4 {
@@ -54,10 +55,6 @@
   .u-section-1 .u-btn-1 {
     border-style: none;
     padding: 14px 34px 14px 33px;
-  }
-
-  .u-section-1 .u-form-group-4 {
-    font-weight: normal;
   }
 
   .u-section-1 .u-btn-2 {
