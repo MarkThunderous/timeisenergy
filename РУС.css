@@ -186,7 +186,7 @@
   width: 176px;
   height: 176px;
   transition-duration: 0.5s;
-  background-image: url("images/23.jpg");
+  background-image: url("images/3.jpg");
   background-position: 50% 50%;
   object-position: 50% 50%;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
@@ -205,7 +205,7 @@
 .u-section-2 .u-image-4 {
   width: 176px;
   height: 176px;
-  background-image: url("images/7e192afd09c81e7b9ee4c9294d3baa0c04a2cec4f9a0e8f7e2341ffaeec4ab2223b8cd8022216a03eca85581e1bd6db4581e6bd55da2998b37b5ba_1280.jpg");
+  background-image: url("images/41.png");
   background-position: 50% 50%;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
@@ -579,7 +579,7 @@
 }
 
 .u-section-2 .u-layout-cell-8:before {
-  background-image: url(images/7e192afd09c81e7b9ee4c9294d3baa0c04a2cec4f9a0e8f7e2341ffaeec4ab2223b8cd8022216a03eca85581e1bd6db4581e6bd55da2998b37b5ba_1280-14.jpg) !important;
+  background-image: url(images/41-14.png) !important;
 }
 
 .u-section-2 .u-image-4,
@@ -648,7 +648,7 @@
 }
 
 .u-section-2 .u-layout-cell-7:before {
-  background-image: url(images/23-15.jpg) !important;
+  background-image: url(images/3-15.jpg) !important;
 }
 
 .u-section-2 .u-layout-cell-6,
